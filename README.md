@@ -1,5 +1,5 @@
 # CF-problem
-record for cool problems on CodeForces
+A record of cool problems on CodeForces
 
 ## Tags
 
