@@ -6,6 +6,10 @@ A record of cool problems on CodeForces
 ### Brute Force
 - [RD912D1: Maximum And Queries (easy version)](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912D1.md)
 - [RD917C: Watering an Array](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD917C.md)
+- [EdRD161D: Berserk Monster](https://codeforces.com/problemset/problem/1922/D)
+
+### Data Structure
+- [EdRD161D: Berserk Monster](https://codeforces.com/problemset/problem/1922/D)
 
 ### Greedy
 - [RD912C: Theofanis' Nightmare](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912C.md)
