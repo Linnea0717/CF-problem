@@ -37,6 +37,7 @@ A record of cool problems on CodeForces
 ### Dynamic Programming
 - [RD912D2: Maximum And Queries (hard version)](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912D2.md)
 - [RD917F: Construct Tree](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD917F.md)
+- [RD926D: Sasha and a Walk in the City](https://github.com/Linnea0717/CF-problem/tree/66e5bedffc6b215837b48d92d69481fb60a2084e)
 
 ### Graph
 
@@ -44,6 +45,8 @@ A record of cool problems on CodeForces
 - [RD912E: Geo Game](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912E.md)
 
 ### Tree
+  - [RD926D: Sasha and a Walk in the City](https://github.com/Linnea0717/CF-problem/tree/66e5bedffc6b215837b48d92d69481fb60a2084e)
+
   #### Binary Indexed Tree
   - [RD917D: Yet Another Inversions Problem](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD917D.md)
 
