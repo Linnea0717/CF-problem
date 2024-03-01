@@ -28,6 +28,7 @@ A record of cool problems on CodeForces
 
 ### Math
 - [GB2023D: Mathematical Problem](https://github.com/Linnea0717/CF-problem/blob/8f06f8e623ee0c85b3795759eea87e4b238ca0f0/GB2023D.md)
+- [RD926F: Sasha and the Wedding Binary Search Tree](https://github.com/Linnea0717/CF-problem/blob/0e18549d9541a4d17096e7c5667fb74b4294991b/RD926F.md)
 
 ### Bitmask
 - [RD912D1: Maximum And Queries (easy version)](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912D1.md)
@@ -52,3 +53,6 @@ A record of cool problems on CodeForces
 
   #### Segment Tree
   - [RD917D: Yet Another Inversions Problem](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD917D.md)
+
+  #### Binary Search Tree
+  - [RD926F: Sasha and the Wedding Binary Search Tree](https://github.com/Linnea0717/CF-problem/blob/0e18549d9541a4d17096e7c5667fb74b4294991b/RD926F.md)
