@@ -11,6 +11,8 @@ A record of cool problems on CodeForces
 ### Data Structure
   #### Set
   - [EdRD161D: Berserk Monster](https://github.com/Linnea0717/CF-problem/blob/657c5f2cd394cc7cebdd121f24839d048fc5b2c4/EdRD161.md)
+  #### Hash
+  - [RD934D: Non-Palindromic Substring](https://github.com/Linnea0717/CF-problem/blob/d186fb90a1768d8b97e6852103e1ffc5f17e11fd/RD934D.md)
 
 ### Greedy
 - [RD912C: Theofanis' Nightmare](https://github.com/Linnea0717/CF-problem/blob/ff0d42041371fc6ffe027c2e5c00750c8fb35dbf/RD912C.md)
